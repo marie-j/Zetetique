@@ -1,18 +1,32 @@
+Agusti Maxime
+Jones Marie
+
 PROTOCOLE : 
+
+Problematique : 
 
 Y’a-t-il une différence de goût et/ou d’aspect entre des produits issus de production dites “biologiques” et ceux de production dites traditionnelles ? 
 
 
 Réalisation d’une expérience en double aveugle 
 
+A et B désignent les personnes du binôme, ces rôles sont encore à définir mais ils seront choisis aléatoirement
 
-Une personne du binôme, celle qui sera chargée d’acheter les produits et de les rendre impossible de toute idenfication, les dispose dans 2 assiettes juxtaposées pour chacun. Test sur les aliments suivants (qui restent à définir plus précisément ): 
-	- produits laitiers 
-	- bière 
-	- fruits/légumes 
-	- produits céréaliers(pain …)
- 	-  boissons 
+Nombres de personnes prévues pour participer à l’expérience : 20 
 
-La seconde personne sera chargée , d’amener la personne X dans la pièce,  et de noter les réponses de celles-ci après avoir gouté les produits (lequel est considéré comme bio et l’autre non ) 
+Produits testés : à définir mais appartenant aux catégories alimentaires suivantes
+	- fruits/légumes ( environ 2-3)
+	- boisson 
+	- produits céréaliers ( pain …)
+	- produits laitiers (yaourts , … ) 
 
-A la fin de l’expérience , confrontation des réponses des sujets avec la réelle nature des produits.
+La personne A sera chargée de s’approvisionner en produits et à l’aide d’une tierce personne, qui ne sera  ni le binôme B ni une personne impliquée dans l’experience, désignera aléatoirement un numéro ( qui sera 1 ou 2 ) en fonction du tirage d’une pièce : 
+le produit 1 sera bio si la pièce a donné “pile” et il ne le sera pas si la pièce a donné “face” . Ce tirage sera conservé soigneusement scellé dans une enveloppe jusqu’à la fin de l’expérience.
+
+Déroulement de l’expérience : 
+	A disposera chaque produit numéroté “rangé” par type dans une pièce, puis la quittera. Il enverra alors un SMS “C’est ok “ à B. 
+
+	B conduira alors une personne X sujet de l’expérience dans la pièce où il assistera à la degustation de chaque produit par cette personne (sauf indications contraires telles que les allergies par exemple) et notera les réponses données par X sur un formulaire (cf annexe ) 
+
+Résultats : 
+Lorsque les 20 sujets auront procédé à l’expérience, les résultats contenus dans l’enveloppe seront alors comparés à ceux notés sur les formulaires. 
